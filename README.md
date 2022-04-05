@@ -5,6 +5,6 @@ Stay motivated.
 
 
 
-******************************Fresh Stuff and Valuable Links*****************************
+******************************Fresh Stuff and Valuable Links - Catkin*****************************
   1. https://docs.ros.org/en/melodic/api/catkin/html/howto/format2/index.html
-  2. 
+  2. http://wiki.ros.org/catkin/package.xml
